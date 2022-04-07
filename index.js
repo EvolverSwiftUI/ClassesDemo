@@ -74,3 +74,5 @@ console.log(cat);
 console.log(cat.knead());
 console.log(cat.eat());
 console.log(cat.makeSound());
+
+// this in classes
